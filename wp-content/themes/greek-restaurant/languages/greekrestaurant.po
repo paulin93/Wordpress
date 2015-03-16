@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: greek restaurant 2.0\n"
+"POT-Creation-Date: 2014-04-24 00:20+0200\n"
+"PO-Revision-Date: 2014-04-24 00:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: Ketchup Themes <info@ketchupthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:8
+msgid "404 ERROR!"
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for, search something "
+"else"
+msgstr ""
+
+#: comments.php:21
+#: comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:22
+#: comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:23
+#: comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:7
+#: footer.php:17
+#: sidebar.php:4
+msgid "Widgetized Sidebar"
+msgstr ""
+
+#: footer.php:8
+#: footer.php:18
+msgid ""
+"This panel is active and ready for you to add \n"
+"                    some widgets via the WP Admin"
+msgstr ""
+
+#: footer.php:32
+msgid "Greek Restaurant "
+msgstr ""
+
+#: functions.php:110
+msgid "Menu"
+msgstr ""
+
+#: functions.php:140
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:142
+msgid "This is the widgetized sidebar."
+msgstr ""
+
+#: functions.php:149
+msgid "Footer Sidebar Left Column"
+msgstr ""
+
+#: functions.php:151
+msgid "This is the widgetized for the footer -left column."
+msgstr ""
+
+#: functions.php:158
+msgid "Footer Sidebar Right Column"
+msgstr ""
+
+#: functions.php:160
+msgid "This is the widgetized for the footer -right column."
+msgstr ""
+
+#: functions.php:186
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:235
+msgid "Price Fields"
+msgstr ""
+
+#: functions.php:247
+msgid "Add a price"
+msgstr ""
+
+#: functions.php:313
+msgid "General Settings"
+msgstr ""
+
+#: functions.php:314
+msgid ""
+"Here you can find the settings for this theme.\n"
+"                < <div class=\"premium_opts\">\n"
+"                <p>Do you want <b>premium features?</b></p>\n"
+"                <ul>\n"
+"                    <li>Widgetized Home Page</li>\n"
+"                    <li>Responsive Design</li>\n"
+"                    <li>Favicon Upload</li>\n"
+"                    <li>Logo Upload</li>\n"
+"                    <li>Customizable Background</li>\n"
+"                    <li>Full Width Slider</li>\n"
+"                    <li>Customizable Header</li>\n"
+"                    <li>Sidebar</li>\n"
+"                    <li>Four Widget Areas In The Footer Area</li>\n"
+"                    <li>Social Icons</li>\n"
+"                    <li>Buy Now Button Integration With Our Online Ordering "
+"System</li>\n"
+"                    <li>Online Ordering Script (allows your clients to order "
+"online from your restaurant</li>\n"
+"                </ul>\n"
+"                <p>Visit this link here to know more.<p><a class="
+"\"premium_link\" href=\""
+msgstr ""
+
+#: functions.php:349
+msgid "Upload Favicon"
+msgstr ""
+
+#: functions.php:350
+msgid "<p>Upload your favicon.Make sure it is 16x16pixels.</p>"
+msgstr ""
+
+#: index.php:8
+msgid "Latest <span>Posts</span>"
+msgstr ""
+
+#: index.php:27
+msgid "Posted by"
+msgstr ""
+
+#: index.php:41
+#: index.php:53
+#: single.php:20
+msgid "Price: "
+msgstr ""
+
+#: index.php:61
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: index.php:72
+msgid "&laquo; Newer posts"
+msgstr ""
+
+#: index.php:73
+msgid "Older posts &raquo;"
+msgstr ""
+
+#: page.php:20
+#: single.php:31
+msgid "Pages:"
+msgstr ""
+
+#: sidebar.php:5
+msgid ""
+"This panel is active and ready for you to add some widgets via the WP Admin"
+msgstr ""
+
+#: single.php:24
+msgid " "
+msgstr ""
